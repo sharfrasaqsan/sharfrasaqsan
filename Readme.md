@@ -1,7 +1,7 @@
 # 💫 About Me
-🔹 I'm a passionate **Web Developer** currently working at **Oscar Wylee**, where I contribute to building user-friendly, accessible, and scalable web solutions.
-🔹 My focus is on creating responsive front-end interfaces and efficient back-end integrations using modern web technologies.
-🔹 Always eager to learn and grow, I enjoy exploring new tools, frameworks, and best practices in the ever-evolving world of web development.
+🔹 I'm a passionate **Web Developer** currently working at **Oscar Wylee**, where I contribute to building user-friendly, accessible, and scalable web solutions.<br />
+🔹 My focus is on creating responsive front-end interfaces and efficient back-end integrations using modern web technologies.<br />
+🔹 Always eager to learn and grow, I enjoy exploring new tools, frameworks, and best practices in the ever-evolving world of web development.<br />
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,10 +11,6 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-<!--### 🧩 Backend
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
--->
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
