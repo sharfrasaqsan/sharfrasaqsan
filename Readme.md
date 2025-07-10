@@ -1,5 +1,7 @@
-# 💫 About Me:
-Working as a Web Developer at Oscar Wylee
+# 💫 About Me
+🔹 I'm a passionate **Web Developer** currently working at **Oscar Wylee**, where I contribute to building user-friendly, accessible, and scalable web solutions.
+🔹 My focus is on creating responsive front-end interfaces and efficient back-end integrations using modern web technologies.
+🔹 Always eager to learn and grow, I enjoy exploring new tools, frameworks, and best practices in the ever-evolving world of web development.
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
