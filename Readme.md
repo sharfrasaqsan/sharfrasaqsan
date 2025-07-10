@@ -1,9 +1,9 @@
-# 💫 About Me
+# About Me
 🔹 I'm a passionate **Web Developer** currently working at **Oscar Wylee**, where I contribute to building user-friendly, accessible, and scalable web solutions.<br />
 🔹 My focus is on creating responsive front-end interfaces and efficient back-end integrations using modern web technologies.<br />
 🔹 Always eager to learn and grow, I enjoy exploring new tools, frameworks, and best practices in the ever-evolving world of web development.<br />
 
-# 💻 Tech Stack
+# Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -24,9 +24,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
-## 📊 GitHub Stats
-
+## GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sharfrasaqsan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
 <br />
@@ -35,12 +33,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharfrasaqsan&theme=dark&hide_border=false&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharfrasaqsan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-## ☕ Support Me
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharfrasaqsan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+
+## Support Me
 <p align="center">
   <a href="https://buymeacoffee.com/sharfrasaqsan" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
