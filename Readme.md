@@ -30,40 +30,19 @@ Working as a Web Developer at Oscar Wylee
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=sharfrasaqsan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-
-<!-- GitHub Streak -->
+<br />
 <img src="https://nirzak-streak-stats.vercel.app/?user=sharfrasaqsan&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
-
-<!-- Top Languages -->
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharfrasaqsan&theme=dark&hide_border=false&layout=compact" width="48%" alt="Top Languages" />
-
 </div>
 
----
-
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharfrasaqsan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
-
-## 🔥 Profile Visitor Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sharfrasaqsan&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
-
----
-
 ## ☕ Support Me
-
 <p align="center">
   <a href="https://buymeacoffee.com/sharfrasaqsan" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
